@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mobgo", "mobgo\mobgo.csproj", "{C84167BD-D3E6-4A04-8074-DE5186C94E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mobgo.Tests", "mobgo.Tests\mobgo.Tests.csproj", "{C8647D16-9C99-4089-9E5C-AF95F23D46C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C84167BD-D3E6-4A04-8074-DE5186C94E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84167BD-D3E6-4A04-8074-DE5186C94E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84167BD-D3E6-4A04-8074-DE5186C94E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84167BD-D3E6-4A04-8074-DE5186C94E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8647D16-9C99-4089-9E5C-AF95F23D46C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8647D16-9C99-4089-9E5C-AF95F23D46C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8647D16-9C99-4089-9E5C-AF95F23D46C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8647D16-9C99-4089-9E5C-AF95F23D46C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41B965F7-9426-4D04-8748-81D29636A2CB}
+	EndGlobalSection
+EndGlobal

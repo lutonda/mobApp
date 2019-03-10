@@ -1,0 +1,6 @@
+namespace mobgo.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
